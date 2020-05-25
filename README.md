@@ -1,2 +1,2 @@
 # Final-Project
-This is my final project
+This is aclone of patatap. One of my favourite websites.
